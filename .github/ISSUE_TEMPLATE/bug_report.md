@@ -3,8 +3,13 @@ name: Bug report
 about: Create a report to help us improve
 
 ---
+# Please provide relevant information 
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+Microclimate Version : 
+Local/IBM Cloud Private : 
+Operating System and Version : 
+Browser and Version :
+Description of issue :
+Steps to Reproduce the issue :
+Additional Information :  
 
-My bug template
