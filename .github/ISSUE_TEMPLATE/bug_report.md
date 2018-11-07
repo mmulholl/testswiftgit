@@ -4,7 +4,7 @@ about: Create a report to help us improve
 
 ---
 
-** Please provide relevant information **
+**Please provide relevant information**
 
 Microclimate Version : 
 
@@ -14,7 +14,7 @@ Operating System and Version :
 
 Browser and Version :
 
-Description of issue :
+Description of the issue :
 
 Steps to Reproduce the issue :
 
