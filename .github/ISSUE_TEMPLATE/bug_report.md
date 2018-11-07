@@ -18,5 +18,4 @@ Description of the issue :
 
 Steps to Reproduce the issue :
 
-Additional Information :  
-
+Additional Information :
